@@ -1,0 +1,227 @@
+.head
+{
+      
+    background-color:white;
+    border:solid;
+   
+}
+.links
+{
+   background-color: red;
+    border: dotted;
+    border-color: yellow; 
+   margin-top: 10px;
+   padding-left: 20px;
+   padding-top:10px;
+   Padding-bottom:10px;
+}
+  
+ a:link
+ {
+ color:darkred
+ }
+ a:visited
+ {
+   color:deeppink
+ }
+
+  .grid 
+  {
+    background: darkred;
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;   
+  }
+
+   .img1
+  {
+    border:5px solid;
+    border-color:coral;
+    border-radius:15px; 
+    width:200px;
+    height:200px;
+  }
+  .img2
+  {
+    border:5px solid;
+    border-color:green;
+    border-radius:15px; 
+    width:200px;
+    height:200px;
+  }
+  .img3
+  {
+    border:5px solid;
+    border-color:purple;
+    border-radius:15px; 
+    width:200px;
+    height:200px;
+  }
+  .img4
+  {
+    border:5px solid;
+    border-color:blue;
+    border-radius:15px; 
+    width:200px;
+    height:200px;
+  }
+  .img5
+  {
+    border:5px solid;
+    border-color:red;
+    border-radius:15px; 
+    width:200px;
+    height:200px;
+  }
+  .img6
+  {
+    border:5px solid;
+    border-color:yellow;
+    border-radius:15px; 
+    width:200px;
+    height:200px;
+  }
+  
+  .camel {
+    border: 10px solid ;
+    border-color:rgb(15, 70, 223);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom:100px;
+    width: 200px;
+    height: 600px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  
+  .chameleon {
+    border: 10px solid ;
+    border-color:hotpink;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .cicada {
+    border: 10px solid rgb(70,226,9);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 460px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .panda {
+    border: 10px solid rgb(241,9,9);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 410px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .pigeon {
+    border: 10px solid yellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .teddy {
+    border: 10px solid rgb(223, 14, 212);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+.camel:hover img
+{
+  opacity:0.33
+}
+  .camel h2
+  {
+    opacity:0
+  }
+  .camel:hover h2
+  {
+    opacity:1
+  }
+
+  .chameleon:hover img
+{
+  opacity:0.33
+}
+  .chameleon h2
+  {
+    opacity:0
+  }
+  .chameleon:hover h2
+  {
+    opacity:1
+  }
+
+  .pigeon:hover img
+{
+  opacity:0.33
+}
+  .pigeon h2
+  {
+    opacity:0
+  }
+  .pigeon:hover h2
+  {
+    opacity:1
+  }
+
+  .panda:hover img
+{
+  opacity:0.33
+}
+  .panda h2
+  {
+    opacity:0
+  }
+  .panda:hover h2
+  {
+    opacity:1
+  }
+
+  .teddy:hover img
+{
+  opacity:0.33
+}
+  .teddy h2
+  {
+    opacity:0
+  }
+  .teddy:hover h2
+  {
+    opacity:1
+  }
+
+  .cicada:hover img
+{
+  opacity:0.33
+}
+  .cicada h2
+  {
+    opacity:0
+  }
+  .cicada:hover h2
+  {
+    opacity:1
+  }
